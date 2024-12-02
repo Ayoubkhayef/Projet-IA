@@ -1,0 +1,14 @@
+Recolte de donnée en temps réel:
+- Script python webscraping reddit
+	- 
+- Script python webscraping Twitter
+- Script python webscraping Actualité
+
+Scripts : 
+- Recolte de données
+- Nettoyage de données
+- IA
+- entrainement IA
+- optimisation 
+- envoie notification automatique en cas d'événement 
+- calcul rentabilité de monnaies
